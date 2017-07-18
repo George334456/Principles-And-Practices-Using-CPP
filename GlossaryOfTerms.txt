@@ -1,0 +1,41 @@
+Chapter 2:
+// = A comment
+<< = The output operator that puts whatever is on the right side into the left side
+C++ = A language that allows us to give very explicit instructions through a program
+comment = Something written in english that allows us to read it easily rather than just reading the code. Also ignored by compiler
+compiler = A program that will translate the source code to executable object code that can be run on a computer.
+compile-time error = An error encoutered when trying to translate from source code to object code
+cout = characters put into here will appear on screen. Means standard output stream.
+executable = The code that appears after compilation. Can be run by a computer
+function = A named sequence of statements that are run in the order they are written
+header = Contains the definition of things we will use in the program
+IDE = An integrated development environment. Gives us things as syntax highlighting and things like that
+#include = Tells the compiler to make available from the file that is written after the include statement.
+library = Functions that someone else has written that we can access found in the #include files.
+linker = The program that is responsible for linking separate parts together into one executable file.
+main() = The function that will be executed first.
+object code = Code that is readable by the computer and can be executed.
+output = What appears on the screen after calling cout.
+program = A source code that can be compiled and ran into doing something.
+source code = the code that is written in a human understandable way in a language.
+statement = An action that the function will perform.
+
+Chapter 3:
+Assignment = Giving a variable a value by overriding the previous value of that variable
+cin = For character input. Specifies where that input goes
+concatenation = The putting of two strings together
+conversion = Converting from one type to another
+Declaration = The creation of a variable without assigning a value to it
+decrement = To decrease the value of a variable by one
+definition = Statement tha define a variable
+increment = to increase the value of a variable by one
+initialization = To initially give a variable a value
+name = The name given to a variable for easy reference
+narrowing = A conversion from a large max size variable to a smaller size variable
+object = Places where we store data is an object
+operation = Something a type of variable can do 
+operator = A specific character that specifies a operator
+type = The specific type of data a variable can be stored, declared in the declaration.
+type safety = Converting between types can sometimes be unsafe. When objects are used only according to rules for their type
+value = Set of bits in memory intrepreted according to type
+variable = A named object
